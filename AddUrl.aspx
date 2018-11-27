@@ -7,11 +7,10 @@
     <title></title>
     <style type="text/css">
         .auto-style1 {
-            height: 370px;
+            height: 400px;
             background-color: #EAE8DC;
         }
         .auto-style2 {
-            color: #FF0000;
         }
         .auto-style4 {
             height: 371px;
